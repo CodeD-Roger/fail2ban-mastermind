@@ -36,14 +36,13 @@ The **Fail2Ban Management Tool** is a Bash script designed to automate the insta
 
 ---
 
-## Installation
-1. Clone this repository to your local machine:
+## Installation :  Clone this repository to your local machine
    ```bash
    git clone https://github.com/yourusername/fail2ban-management-tool.git
    cd fail2ban-management-tool
   chmod +x fail2ban.sh
   sudo ./fail2ban.sh
 ```
-## Usage 
+## USAGE
 ```bash
 sudo ./fail2ban.sh
