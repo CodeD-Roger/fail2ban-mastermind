@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Fail2Ban Management Tool
-# Author: [Your Name]
+# Author: [CodeD-Roger]
 # Version: 1.0
 # Description: Automates the installation, configuration, and management of Fail2Ban on Kali Linux.
 
